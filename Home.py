@@ -24,6 +24,6 @@ data structures handle information.
 
 st.info("👈 Use the sidebar on the left to navigate between the different tree types!")
 
-# Optional: Add a nice visual or button to go to the most popular one
-if st.button("Try the AVL Tree now! ✨"):
-    st.switch_page("pages/2_AVL_Tree.py")
+# # Optional: Add a nice visual or button to go to the most popular one
+# if st.button("Try the AVL Tree now! ✨"):
+#     st.switch_page("pages/2_AVL_Tree.py")

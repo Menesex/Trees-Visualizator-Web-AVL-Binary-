@@ -4,7 +4,7 @@ Hi! I'm **Juan José Meneses Jaramillo (MeneDev)**. This is an educational proje
 
 ## 🔗 Try it live!
 You can interact with the visualizer without installing anything here:
-👉 **[INSERT_YOUR_STREAMLIT_LINK_HERE]**
+👉 **[https://menetreesvisualizator.streamlit.app]**
 
 ---
 
